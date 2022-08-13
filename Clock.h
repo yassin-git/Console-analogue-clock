@@ -8,6 +8,9 @@ class Clock
 {
 private:
     /* data */
+    char  cara;
+    int x[12];
+    int y[12];
 public:
     Clock();
     ~Clock();

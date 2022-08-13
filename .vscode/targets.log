@@ -9,7 +9,7 @@ make: *** No rule to make target 'all'.  Stop.
 # There is NO WARRANTY, to the extent permitted by law.
  
 
-# Make data base, printed on Sat Aug 13 07:35:10 2022
+# Make data base, printed on Sat Aug 13 16:53:11 2022
 
 # Variables
 
@@ -24,7 +24,7 @@ USERPROFILE = C:\Users\moham
 # environment
 LOCALAPPDATA = C:\Users\moham\AppData\Local
 # environment
-VSCODE_CWD = C:\Users\moham\AppData\Local\Programs\Microsoft VS Code
+VSCODE_CWD = C:\Users\moham\Desktop\luxsoft\lab
 # environment
 CHOCOLATEYINSTALL = C:\ProgramData\chocolatey
 # environment
@@ -40,7 +40,7 @@ GOPATH = C:\Users\moham\go
 # automatic
 @D = $(patsubst %/,%,$(dir $@))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_14252_QNHEBOHQAZHRONMA
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_19944_FJTKQGAMHHEXJHDQ
 # environment
 FPS_BROWSER_USER_PROFILE_STRING = Default
 # environment
@@ -90,7 +90,7 @@ MAKEFILE_LIST :=
 # automatic
 @F = $(notdir $@)
 # environment
-VSCODE_PID = 14252
+VSCODE_PID = 19944
 # automatic
 ?D = $(patsubst %/,%,$(dir $?))
 # environment
@@ -218,9 +218,9 @@ PROCESSOR_IDENTIFIER = AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
 
 # Directories
 
-# . (device 1817435715, inode 28147497671067473): 6 files, no impossibilities.
+# . (device 1817435715, inode 28147497671067473): 9 files, no impossibilities.
 
-# 6 files, no impossibilities in 1 directories.
+# 9 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -270,12 +270,12 @@ GNUmakefile:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 13 / storage = 109 B / avg = 8 B
-# current buf: size = 8162 B / used = 109 B / count = 13 / avg = 8 B
+# strcache buffers: 1 (0) / strings = 16 / storage = 132 B / avg = 8 B
+# current buf: size = 8162 B / used = 132 B / count = 16 / avg = 8 B
 
-# strcache performance: lookups = 16 / hit rate = 18%
+# strcache performance: lookups = 19 / hit rate = 15%
 # hash-table stats:
-# Load=13/8192=0%, Rehash=0, Collisions=0/16=0%
-# Finished Make data base on Sat Aug 13 07:35:10 2022
+# Load=16/8192=0%, Rehash=0, Collisions=0/19=0%
+# Finished Make data base on Sat Aug 13 16:53:11 2022
 
  

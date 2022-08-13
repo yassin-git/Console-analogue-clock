@@ -16,11 +16,11 @@
 
 using namespace std;
 
-char  cara='o';
-int x[12];
-int y[12];
+
+
 Clock::Clock()
 {
+   cara='o';
 }
 
 Clock::~Clock()
