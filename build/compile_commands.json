@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/moham/Desktop/luxsoft/lab/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe   -g -o CMakeFiles/Analog.dir/main.cpp.obj -c C:/Users/moham/Desktop/luxsoft/lab/main.cpp",
+  "file": "C:/Users/moham/Desktop/luxsoft/lab/main.cpp"
+},
+{
+  "directory": "C:/Users/moham/Desktop/luxsoft/lab/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe   -g -o CMakeFiles/Analog.dir/Clock.cpp.obj -c C:/Users/moham/Desktop/luxsoft/lab/Clock.cpp",
+  "file": "C:/Users/moham/Desktop/luxsoft/lab/Clock.cpp"
+}
+]

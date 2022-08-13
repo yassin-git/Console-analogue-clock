@@ -1,0 +1,3 @@
+C:/Users/moham/Desktop/luxsoft/lab/build/CMakeFiles/Analog.dir
+C:/Users/moham/Desktop/luxsoft/lab/build/CMakeFiles/edit_cache.dir
+C:/Users/moham/Desktop/luxsoft/lab/build/CMakeFiles/rebuild_cache.dir
