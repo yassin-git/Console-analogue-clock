@@ -1,9 +1,25 @@
+/**
+ * @file Clock.h
+ * @author Mohamed Yassine Yaich
+ * @brief 
+ * @version 0.1
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #ifndef CLOCK_H
 #define CLOCK_H
-
+/*****************************************************************************************************************************************************
+*                                                               Include Files                                                                                                                                             *
+*                                                                                                                                                    *                                                                                                                                                  
+******************************************************************************************************************************************************/
 
 #include <stdio.h>
 #include <string>  // string
+/**
+ * @brief   Clock Class 
+ * 
+ */
 class Clock
 {
 private:
